@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/presidente2027/static/css/main.073c9b0a.css",
-    "main.js": "/presidente2027/static/js/main.c45c16cc.js",
+    "main.css": "/presidente2027/static/css/main.65e24a4b.css",
+    "main.js": "/presidente2027/static/js/main.38c9d7bc.js",
     "static/js/329.d031f99a.chunk.js": "/presidente2027/static/js/329.d031f99a.chunk.js",
-    "static/media/logo.svg": "/presidente2027/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/presidente2027/index.html",
-    "main.073c9b0a.css.map": "/presidente2027/static/css/main.073c9b0a.css.map",
-    "main.c45c16cc.js.map": "/presidente2027/static/js/main.c45c16cc.js.map",
+    "static/media/chevron-right.svg": "/presidente2027/static/media/chevron-right.917f0a92fb1bf807680f23a7643b2229.svg",
+    "main.65e24a4b.css.map": "/presidente2027/static/css/main.65e24a4b.css.map",
+    "main.38c9d7bc.js.map": "/presidente2027/static/js/main.38c9d7bc.js.map",
     "329.d031f99a.chunk.js.map": "/presidente2027/static/js/329.d031f99a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c45c16cc.js"
+    "static/css/main.65e24a4b.css",
+    "static/js/main.38c9d7bc.js"
   ]
 }
