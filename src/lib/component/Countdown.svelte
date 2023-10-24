@@ -63,29 +63,19 @@
   }
 </script>
 
-<div class="flex justify-center gap-4 overflow-y-hidden">
-  <!-- Years -->
+<div class="flex flex-wrap justify-center gap-4 overflow-y-hidden">
   <CountdownNumber what={values.years} text=" años" />
-
-  <!-- Months -->
   <CountdownNumber what={values.months} text=" meses" />
-
-  <!-- Days -->
   <CountdownNumber what={values.days} text=" días" />
 
-  <!-- Hours -->
   <span>
     <CountdownNumber what={Math.floor(values.hours / 10)} />
     <CountdownNumber what={Math.floor(values.hours % 10)} text=" horas" />
   </span>
-
-  <!-- Minutes -->
   <span>
     <CountdownNumber what={Math.floor(values.minutes / 10)} />
     <CountdownNumber what={Math.floor(values.minutes % 10)} text=" minutos" />
   </span>
-
-  <!-- Seconds -->
   <span>
     <CountdownNumber what={Math.floor(values.seconds / 10)} />
     <CountdownNumber what={Math.floor(values.seconds % 10)} text=" segundos" />

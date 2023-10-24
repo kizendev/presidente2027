@@ -19,7 +19,7 @@
         ·
         <a href="." class="hover:underline"> Boleta Oficial </a>
       </span>
-      <span class="text-sm text-gray-400 dark:text-gray-500">
+      <span class="text-center text-sm text-gray-400 dark:text-gray-500">
         Todas las propuestas fueron generadas por inteligencia artificial y no
         deben ser tomadas en serio.
       </span>
