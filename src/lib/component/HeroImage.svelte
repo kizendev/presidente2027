@@ -1,5 +1,5 @@
 <img
-  src="./heroj.jpg"
+  src="./heroj.webp"
   alt="Imagen de la bandera Argentina"
   class="h-[calc(100vh_-_7rem)] w-full object-contain dark:brightness-90"
 />
